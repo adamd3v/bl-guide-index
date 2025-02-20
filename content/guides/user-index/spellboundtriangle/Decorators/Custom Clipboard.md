@@ -1,5 +1,8 @@
 ---
-tags: #extendedsdk #decorators #crate-spawners 
+tags:
+  - extendedsdk
+  - decorators
+  - crate-spawners
 ---
 
 ## Basic Setup

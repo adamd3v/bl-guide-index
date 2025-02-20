@@ -1,5 +1,7 @@
 ---
-tags: #spawnables/vehicles #extendedsdk 
+tags:
+  - "#extendedsdk"
+  - spawnables/vehicles
 ---
 
 ## Beginning
