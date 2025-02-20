@@ -10,7 +10,7 @@ If you're unsure about the process for contributing on GitHub, [check out this g
 
 Furthermore, if you're unsure about formatting, you can use [GitHub's guidelines](https://docs.github.com/en/contributing) to contribute to their documentation as a reference point. It contains good practices, style guides and more.
 
-## Previewing the website Locally
+## Previewing the Website Locally
 
 We use [Quartz](https://quartz.jzhao.xyz) to take our documentation and convert it to a static website. It turns markdown files into pages, and also supports extra fancy features, such as `#tags` and backlinks, that come with the text-editor [Obsidian](https://obsidian.md).
 
