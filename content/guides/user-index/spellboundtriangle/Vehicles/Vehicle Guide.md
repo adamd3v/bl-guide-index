@@ -1,4 +1,7 @@
-#spawnables/vehicles #extendedsdk 
+---
+tags: #spawnables/vehicles #extendedsdk 
+---
+
 ## Beginning
 
 Begin with an [Extended SDK](https://github.com/notnotnotswipez/Marrow-ExtendedSDK-MAINTAINED) project and a prefab that includes whatever model you're using. 

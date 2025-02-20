@@ -1,4 +1,6 @@
-#extendedsdk 
+---
+tags: #extendedsdk
+---
 
 In a project with the [Extended SDK](https://github.com/notnotnotswipez/Marrow-ExtendedSDK-MAINTAINED) installed, make a Game Object with the Seat script, and a box collider set to Trigger. Add two empty Game Objects as children under the seat called Foot "FootLf" and "FootRt." In the Seat script, assign the root Rigidbody to the SeatRb (assuming you're making the seat in a prefab).
 

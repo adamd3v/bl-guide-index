@@ -1,4 +1,6 @@
-#crate-spawners #decorators #extendedsdk
+---
+tags: #crate-spawners #decorators #extendedsdk
+---
 
 Levels can use a few Player Marker decorator scripts to customize the player's experience in a level. 
 

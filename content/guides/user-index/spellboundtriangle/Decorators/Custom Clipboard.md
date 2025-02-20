@@ -1,6 +1,8 @@
-## Basic Setup
+---
+tags: #extendedsdk #decorators #crate-spawners 
+---
 
-#extendedsdk #decorators #crate-spawners 
+## Basic Setup
 
 First, add a Crate Spawner of the **Clipboard Lore** crate. Add the **Lore Clipboard Proxy** component, then fill it out!
 ## Color

@@ -1,4 +1,8 @@
-#base-sdk #joints
+---
+tags:
+  - "#lighting"
+  - "#levels"
+---
 ## This is a simple guide for using joints to create a door!
 
 ![[OpeningDoor.gif]]
