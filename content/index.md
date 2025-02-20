@@ -1,16 +1,10 @@
 ---
-title: Welcome to the BONELAB Unofficial Docs!
+title: Welcome!
 ---
+Welcome to BONELAB Modding Guides Site! This site mirrors the [bl-modding-guides](https://github.com/Lava-Pals/bl-modding-guides) repository on GitHub - a community-ran project that contains resources for modding BONELAB.
 
-Welcome to BONELAB Unofficial Docs site! This is a community ran project that contains information and guides to assist you with creating SDK mods.
-
-These docs will operate under the assumption that you have a Unity project setup with the [Marrow Extended SDK Maintained](https://github.com/notnotnotswipez/Marrow-ExtendedSDK-MAINTAINED) scripts.
-
-> [!INFO] You will find
-> - ~~Unoffical scripts info/use guides~~ - Until further updates, this will not be worked on, if at all. If you want to do it, you can contribute (See below).
-> - UltEvents Logic guides  + Information on how to best utilise the UltEvents package
-> - Prefabs (a lot of them) + Modding resources
+Some guides may operate under the assumption that you have a Unity project setup with the [Marrow Extended SDK Maintained](https://github.com/notnotnotswipez/Marrow-ExtendedSDK-MAINTAINED) scripts.
 
 ## Contributing
 
-Found typos, have ideas or want to make improvements? Contribute over at our [GitHub repository](https://github.com/Lava-Pals/bl-unofficial-docs)!
+Found mistakes, have ideas for improvements, or are interested in putting something out there for others? Head over to the [bl-modding-guides](https://github.com/Lava-Pals/bl-modding-guides) repository and checkout the README at the bottom for more information.

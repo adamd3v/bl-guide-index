@@ -1,8 +1,8 @@
-# Introduction
-In this guide I'm going to go over what does what in each component on the wheel Game Objects you made in the [[Vehicle Guide]], if you made your own vehicle separate from the guide, this should still apply! 
+## Introduction
+In this guide I'm going to go over what does what in each component on the wheel Game Objects you made in the [[content/guides/user-index/spellboundtriangle/Vehicles/Vehicle Guide]], if you made your own vehicle separate from the guide, this should still apply! 
 
 ## Configurable Joints
-I'm not going to go into detail for every option in the Configurable Joint component because there's already [Unity docs](https://docs.unity3d.com/Manual/class-ConfigurableJoint.html) for them, just know everything I went over in the [[Vehicle Guide]] is required to make the wheels *work*. You can mess with anything I didn't go over.
+I'm not going to go into detail for every option in the Configurable Joint component because there's already [Unity docs](https://docs.unity3d.com/Manual/class-ConfigurableJoint.html) for them, just know everything I went over in the [[content/guides/user-index/spellboundtriangle/Vehicles/Vehicle Guide]] is required to make the wheels *work*. You can mess with anything I didn't go over.
 
 ## Test Contact Mod
 Test Contact Mod is used for *suspension*, the values are pretty simple and self explanatory, but I'll explain them anyway.

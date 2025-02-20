@@ -1,5 +1,6 @@
 ## Basic Setup
-!!! REQUIRES THE [EXTENDED SDK](https://github.com/notnotnotswipez/Marrow-ExtendedSDK-MAINTAINED) !!!
+
+#extendedsdk #decorators #crate-spawners 
 
 First, add a Crate Spawner of the **Clipboard Lore** crate. Add the **Lore Clipboard Proxy** component, then fill it out!
 ## Color

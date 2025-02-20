@@ -1,4 +1,4 @@
-!!! REQUIRES THE [EXTENDED SDK](https://github.com/notnotnotswipez/Marrow-ExtendedSDK-MAINTAINED) !!!
+#crate-spawners #decorators #extendedsdk
 
 The Bullet Banker (the ammo dispenser in BONELAB) can be customized to fit for Tac-Trial style mod levels, or similar cases where you want the player to only have a certain amount of ammo made available to them.
 

@@ -1,3 +1,5 @@
+#lighting #levels
+
 Lighting is one of the most important parts of creating a level for any videogame, more so for virtual reality games like Bonelab. 
 
 This guide will show you how to use one of the best light mappers available for Unity to enhance the look and feel of your Bonelab level. 

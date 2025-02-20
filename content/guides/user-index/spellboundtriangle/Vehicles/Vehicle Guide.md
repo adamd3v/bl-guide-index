@@ -1,8 +1,10 @@
-# Beginning
+#spawnables/vehicles #extendedsdk 
+## Beginning
+
 Begin with an [Extended SDK](https://github.com/notnotnotswipez/Marrow-ExtendedSDK-MAINTAINED) project and a prefab that includes whatever model you're using. 
 This guide does assume you have prior Unity + Modding experience.
 
-The guide explains how to set up a basic vehicle based off the GoKart, I'll only go over the required adjustments, for more information on optional values, see [[Vehicle Wheels]]
+The guide explains how to set up a basic vehicle based off the GoKart, I'll only go over the required adjustments, for more information on optional values, see [[content/guides/general/Vehicles/Vehicle Wheels]]
 
 Before you do anything, I would suggest adding colliders however detailed you want, *then* move on in the guide.
 
@@ -47,7 +49,7 @@ This component makes the vehicle have suspension. Set the Col and Rb to your whe
 ![[VehicleWheelTestContactMod.png | 400]]
 
 #### Collision Stay Sensor
-It's important that you have this component, but the settings are COMPLETELY up to you, this script simply determines how you want the vehicle to drift, I tend to just set Pressure Normal to 0, 5, 0, but this is your vehicle, not mine! There's more information on what values do what in the [[Vehicle Wheels]] guide, but if you don't have time, all you need to know is that the Y float in the Pressure Normal vector determines the drift sensitivity, the higher you set it the easier you drift.
+It's important that you have this component, but the settings are COMPLETELY up to you, this script simply determines how you want the vehicle to drift, I tend to just set Pressure Normal to 0, 5, 0, but this is your vehicle, not mine! There's more information on what values do what in the [[content/guides/general/Vehicles/Vehicle Wheels]] guide, but if you don't have time, all you need to know is that the Y float in the Pressure Normal vector determines the drift sensitivity, the higher you set it the easier you drift.
 
 ![[VehicleWheelCollisionStaySensor.png | 400]]
 
@@ -57,7 +59,7 @@ Go back to your ATV script on the root of the prefab, assign all the wheels acco
 ![[VehicleAfterWheelsATVScript.png | 500]]
 
 
-### For more information on wheels, see the [[Vehicle Wheels]] guide.
+### For more information on wheels, see the [[content/guides/general/Vehicles/Vehicle Wheels]] guide.
 
 # The Steering Wheel
 Make a new Game Object as the parent of your steering wheel, It's very important the Game Object is rotated and aligned with the steering wheel mesh. 
@@ -97,7 +99,7 @@ IT'S *VERY* IMPORTANT IT IS ORIENTATED THE SAME WAY IN THE SCREENSHOTS!!!! AS WE
 After you've finished all that, we can go back to our wheels! Selecting the **TWO FRONT**, in the *Second* config joint, assign the HandleBars as the Connected Body. Next, go to you ATV Script and assign the HandleBars to the Front Axle.
 
 # The Driver Seat
-I won't go over how to make a seat, as I've already made a separate guide, [[Seat]]. **BUT** once you have made the seat, assign it to the Driver Seat in the ATV script.
+I won't go over how to make a seat, as I've already made a separate guide, [[content/guides/general/Seat]]. **BUT** once you have made the seat, assign it to the Driver Seat in the ATV script.
 
 # Motor SFX
 All these settings pretty much explain themselves, and vary depending on what vehicle you're going for, if you really don't know what to do, here's the GoKarts settings. And of course you'll need your own sound effects. Make sure to assign the MotorSFX in the ATV script.
