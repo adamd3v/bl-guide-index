@@ -1,3 +1,3 @@
 ---
-title: UltEvents
+title: User Index
 ---
