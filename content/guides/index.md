@@ -1,3 +1,3 @@
 ---
-title: Guides
+title: (legacy content)
 ---

@@ -1,4 +1,4 @@
-# BONELAB Modding Guides
+# BONELAB Guide Index
 
 This repository holds user-created guides for modding BONELAB, as well as the source-code for deploying to the website hosted via GitHub pages.
 
