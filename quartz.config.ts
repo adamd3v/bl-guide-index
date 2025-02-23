@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "BONELAB Guide Index",
+    pageTitle: "👥 BONELAB Guide Index",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
