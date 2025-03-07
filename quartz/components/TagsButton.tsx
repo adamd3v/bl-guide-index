@@ -1,9 +1,10 @@
-import { QuartzComponentConstructor, QuartzComponentProps } from "./types"
+import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
+import { pathToRoot } from "../util/path"
 
-export default (() => {
-    function TagsButton(_props: QuartzComponentProps) {
-        return <a href="/tags">Browse Tags</a>
-    }
+const TagsButton: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
+    const baseDir = pathToRoot(fileData.slug!)
+    let path = baseDir + "/tags";
+    return <a href={path}>Browse Tags</a>
+}
 
-    return TagsButton
-}) satisfies QuartzComponentConstructor
+export default (() => TagsButton) satisfies QuartzComponentConstructor
