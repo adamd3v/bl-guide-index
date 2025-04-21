@@ -12,6 +12,13 @@ This will create a page with ``maxElements``, which means that it will split int
 A **link** is also made to the page. **Links** are function elements that, when pressed, take you to the page. 
 
 ``createLink`` is always on by default if you choose not to set it, but you can optionally set it to false if you want more control over how the links are created between pages.
+## Elements
+BoneMenu comes with a variety of elements:
+- Int and float elements
+- Enum elements
+- Function elements
+- String elements
+- 
 ## Function Elements and Arrays
 Picture this: you want to create a bunch of function elements on a page so you can change your custom HUD. What kind of code would you have to write for it to work?
 ```cs
